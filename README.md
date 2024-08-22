@@ -23,10 +23,7 @@ Tambien se puede realizar las pruebas en el Postman, consumiendo esta URL:
 http://localhost:8085/api/v3/create-user
 
 ##6.	Respecto a la Base de Datos , podrá acceder mediante  esta url:
- 
-Respecto a la Base de Datos , podrá acceder mediante  esta url:
- 
-http://localhost:8085/api/v3/h2-console
+ http://localhost:8085/api/v3/h2-console
 Asegúrese de que tenga estos valores, no se preocupe por la contraseña no lo necesitara, y podrá realizar todos los querys del caso , como ver la data guardada.
 
  
