@@ -15,8 +15,8 @@ public class SwaggerDocumentationConfig {
     public OpenAPI openApi() {
         return new OpenAPI()
             .info(new Info()
-                .title("Swagger Petstore - OpenAPI 3.0")
-                .description("Examen de Mario Anderson Puma Achulla")
+                .title("Reto Tecnico - OpenAPI 3.0")
+                .description("Nombres: Mario Anderson Puma Achulla - anderson6466@hotmail.com")
                 .termsOfService("")
                 .version("1.0.11")
                 .license(new License()
