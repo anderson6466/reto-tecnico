@@ -1,5 +1,5 @@
-# reto-tecnico
-Creacion de Servicios ,, implementado con  Base de Datos de tipo local H2
+# Reto-tecnico
+Implementado con  Base de Datos de tipo local H2
 Tutorial 
 Para poder realizar las pruebas al proyecto, se necesitara  como requisito tener instalado:
 -MAVEN
