@@ -1,3 +1,4 @@
+
 ##Tutorial
 ##1.	Para poder realizar las pruebas al proyecto, se necesitará como requisito tener instalado:
                    -MAVEN
@@ -12,41 +13,20 @@ https://github.com/anderson6466/reto-tecnico.git
 
 
 ##4.	Luego para instalar las dependencias Clic Derecho   e ir a :  RUN AS ->   MAVEN INSTALL
-Pasos para ejecutar el proyecto.
-Clic Derecho   e ir a :  RUN AS ->   Spring Boot
- 
 
 ##5.	Una vez que esta iniciado, podemos ir a url de Swagger:   http://localhost:8085/api/v3/swagger-ui/#/user/addUser   donde puede realizar las pruebas del caso.
-
-
-
-
-
-
-
-
-
+ 
+Una vez que esta iniciado, podemos ir a url de Swagger:   http://localhost:8085/api/v3/swagger-ui/#/user/addUser   donde puede realizar las pruebas del caso.
+  
 
 Tambien se puede realizar las pruebas en el Postman, consumiendo esta URL:
 http://localhost:8085/api/v3/create-user
 
- 
 ##6.	Respecto a la Base de Datos , podrá acceder mediante  esta url:
+ 
+Respecto a la Base de Datos , podrá acceder mediante  esta url:
+ 
 http://localhost:8085/api/v3/h2-console
 Asegúrese de que tenga estos valores, no se preocupe por la contraseña no lo necesitara, y podrá realizar todos los querys del caso , como ver la data guardada.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
